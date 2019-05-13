@@ -95,3 +95,11 @@ by using **City Green** can tell us about your voluntary time to do for Plantati
 | Near Metro station - opp to Baliji Temple, Indiranagar-2   | 9   | 25    | 15/05/2019  | 07:30 AM   | no comments |
 
 # Test Cases
+
+##Test Scenarios of a Voulnteer Registration form:
+
+
+
+| S.No | Scenario     | Steps    | Expected Result | Success / Error Message    | 
+|-------| --------|---------|-------| --------|
+| samchay   | char.sam@gmail.com  | 9999999999   | Indiranagar    | Male  | 
