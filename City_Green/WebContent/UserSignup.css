@@ -1,0 +1,15 @@
+body{
+	background-image: url('citybg1.jpg'); background-size:'cover';
+}
+header{
+	height:95px; width:100%; background-color:#B1B819; opacity:0.8;
+}
+header h2{
+	 color:	#389314 padding-left:75px; text-align:center; padding-top:10px; font-style:italic;
+}
+.div1{
+	height:100%; width: 25%; margin-top:5%; color:#D53E1F; background-color:#B1B819; font-style:oblique; font-weight:bold;  float:left;
+}
+.div1 h2{
+	color:#D53E1F; padding-left:0%; padding-top:10px; font-style:italic;
+}
