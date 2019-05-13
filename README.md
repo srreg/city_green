@@ -82,16 +82,16 @@ by using **City Green** can tell us about your voluntary time to do for Plantati
 # Table
  ## Users Table - Structure
 
-| first_name     | second_name    | user_id | mail     | contact_number    | location | gender    | password |
+ | name | mail     | contact_number    | location | gender    | password |
 | --------|---------|-------| --------|---------|-------| --------|---------|
-| sam  | chay   | samchay@786   | char.sam@gmail.com  | 9999999999   | Indiranagar    | Male  | user@123   | 
-| damon | salvetor | damon@1921   | crazy@gmail.com  | 8888888888   | Whitefield    | Male  | test@123   | 
+| samchay   | char.sam@gmail.com  | 9999999999   | Indiranagar    | Male  | user@123   | 
+| damon   | crazy@gmail.com  | 8888888888   | Whitefield    | Male  | test@123   | 
 
 ## Planting Slot Table
 
-| volunteer_name    | contact_number | planting_area_details | no_of_participants    | no_of_plants_req | planting_date    | planting_time | notes |
+| planting_area_details | no_of_participants    | no_of_plants_req | planting_date    | planting_time | notes |
 |---------|-------| --------|---------|-------| --------|---------|----------|
-| Vishnu   | 9999999999   | Near Health&Glow shop - Opposite to Woodland show room, Indiranagar-1  | 6   | 18    | 12/05/2019  | 8:00 AM   | nothing |
-| Bhargav | 8888888888   | Near Metro station - opp to Baliji Temple, Indiranagar-2   | 9   | 25    | 15/05/2019  | 07:30 AM   | no comments |
+| Near Health&Glow shop - Opposite to Woodland show room, Indiranagar-1  | 6   | 18    | 12/05/2019  | 8:00 AM   | nothing |
+| Near Metro station - opp to Baliji Temple, Indiranagar-2   | 9   | 25    | 15/05/2019  | 07:30 AM   | no comments |
 
 # Test Cases
